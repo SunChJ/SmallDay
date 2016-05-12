@@ -2,12 +2,12 @@
 //  SmallDayTests.swift
 //  SmallDayTests
 //
-//  Created by 孙超杰 on 16/4/6.
-//  Copyright © 2016年 孙超杰. All rights reserved.
+//  Created by MacBook on 15/8/14.
+//  Copyright (c) 2015年 维尼的小熊. All rights reserved.
 //
 
+import UIKit
 import XCTest
-@testable import SmallDay
 
 class SmallDayTests: XCTestCase {
     
@@ -23,12 +23,12 @@ class SmallDayTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(true, "Pass")
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measureBlock() {
             // Put the code you want to measure the time of here.
         }
     }

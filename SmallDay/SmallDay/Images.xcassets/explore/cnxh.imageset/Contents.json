@@ -6,13 +6,13 @@
     },
     {
       "idiom" : "universal",
-      "filename" : "cnxh@2x.png",
-      "scale" : "2x"
+      "scale" : "2x",
+      "filename" : "cnxh@2x.png"
     },
     {
       "idiom" : "universal",
-      "filename" : "cnxh@3x.png",
-      "scale" : "3x"
+      "scale" : "3x",
+      "filename" : "cnxh@3x.png"
     }
   ],
   "info" : {

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35B765F21CB4AF7A00A06E9E"
+               BlueprintIdentifier = "FAA0F9B91B7DC74900B5EA08"
                BuildableName = "SmallDay.app"
                BlueprintName = "SmallDay"
                ReferencedContainer = "container:SmallDay.xcodeproj">
@@ -32,19 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35B766061CB4AF7A00A06E9E"
+               BlueprintIdentifier = "FAA0F9CE1B7DC74900B5EA08"
                BuildableName = "SmallDayTests.xctest"
                BlueprintName = "SmallDayTests"
-               ReferencedContainer = "container:SmallDay.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35B766111CB4AF7A00A06E9E"
-               BuildableName = "SmallDayUITests.xctest"
-               BlueprintName = "SmallDayUITests"
                ReferencedContainer = "container:SmallDay.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -52,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35B765F21CB4AF7A00A06E9E"
+            BlueprintIdentifier = "FAA0F9B91B7DC74900B5EA08"
             BuildableName = "SmallDay.app"
             BlueprintName = "SmallDay"
             ReferencedContainer = "container:SmallDay.xcodeproj">
@@ -75,7 +65,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35B765F21CB4AF7A00A06E9E"
+            BlueprintIdentifier = "FAA0F9B91B7DC74900B5EA08"
             BuildableName = "SmallDay.app"
             BlueprintName = "SmallDay"
             ReferencedContainer = "container:SmallDay.xcodeproj">
@@ -94,7 +84,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35B765F21CB4AF7A00A06E9E"
+            BlueprintIdentifier = "FAA0F9B91B7DC74900B5EA08"
             BuildableName = "SmallDay.app"
             BlueprintName = "SmallDay"
             ReferencedContainer = "container:SmallDay.xcodeproj">
