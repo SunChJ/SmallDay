@@ -431,7 +431,7 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		FA4090101B9EE1BF0007810C /* extension(扩展) */ = {
+		FA4090101B9EE1BF0007810C /* extension */ = {
 			isa = PBXGroup;
 			children = (
 				FA4090131B9EE2740007810C /* UIImageView+wnxImage.swift */,
@@ -443,11 +443,10 @@
 				FAE5D5661BA2AC90009BA347 /* RegExCategories.h */,
 				FAE5D5671BA2AC90009BA347 /* RegExCategories.m */,
 			);
-			name = "extension(扩展)";
 			path = extension;
 			sourceTree = "<group>";
 		};
-		FA82B11E1B871779003A2264 /* imageFile(大图片) */ = {
+		FA82B11E1B871779003A2264 /* imageFile */ = {
 			isa = PBXGroup;
 			children = (
 				FAE5D5521BA1AE1C009BA347 /* fourpage-375w-667h@2x.jpg */,
@@ -455,7 +454,6 @@
 				FAE5D5541BA1AE1C009BA347 /* fourpage-568h@2x.jpg */,
 				FAE5D5551BA1AE1C009BA347 /* fourpage@2x.jpg */,
 			);
-			name = "imageFile(大图片)";
 			path = imageFile;
 			sourceTree = "<group>";
 		};
@@ -476,14 +474,13 @@
 			path = CustomData;
 			sourceTree = "<group>";
 		};
-		FA932A771B88B50B00601B54 /* Venders(三方库) */ = {
+		FA932A771B88B50B00601B54 /* Venders */ = {
 			isa = PBXGroup;
 			children = (
 				FABFEFF21BAAE5150097A628 /* SDWebImage */,
 				FAD582D31B9363B0007EEEE0 /* UMSocial_Sdk_Extra_Frameworks */,
 				FAD5829F1B935AD0007EEEE0 /* UMSocial_Sdk_4.2.3 */,
 			);
-			name = "Venders(三方库)";
 			path = Venders;
 			sourceTree = "<group>";
 		};
@@ -551,10 +548,10 @@
 				3588F94C1CE45B1500AD3D47 /* AppDelegate.swift */,
 				FA82B1291B876F3D003A2264 /* SmallDay-Bridging-Header.h */,
 				FAA0F9E01B7DD6A500B5EA08 /* BusinessModel */,
-				FAA0F9E11B7DD6A500B5EA08 /* Tools(工具) */,
-				FAA0F9E21B7DD6A500B5EA08 /* UI(界面) */,
-				FA932A771B88B50B00601B54 /* Venders(三方库) */,
-				FA82B11E1B871779003A2264 /* imageFile(大图片) */,
+				FAA0F9E11B7DD6A500B5EA08 /* Tools */,
+				FAA0F9E21B7DD6A500B5EA08 /* UI */,
+				FA932A771B88B50B00601B54 /* Venders */,
+				FA82B11E1B871779003A2264 /* imageFile */,
 				FA82B1311B87AC5E003A2264 /* CustomData */,
 			);
 			path = Classes;
@@ -571,7 +568,7 @@
 			path = BusinessModel;
 			sourceTree = "<group>";
 		};
-		FAA0F9E11B7DD6A500B5EA08 /* Tools(工具) */ = {
+		FAA0F9E11B7DD6A500B5EA08 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 				FA82B1211B87693E003A2264 /* NetworkManager.swift */,
@@ -583,26 +580,24 @@
 				FA7F8B1B1B95ECA8000704DB /* FileTool.swift */,
 				FA4090271B9F47C50007810C /* UserAccountTool.swift */,
 			);
-			name = "Tools(工具)";
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		FAA0F9E21B7DD6A500B5EA08 /* UI(界面) */ = {
+		FAA0F9E21B7DD6A500B5EA08 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				FAA0F9E51B7DD6A500B5EA08 /* Explore(探店) */,
-				FAA0F9E41B7DD6A500B5EA08 /* Experience(体验) */,
-				FAA0F9E31B7DD6A500B5EA08 /* Classify(分类) */,
-				FAA0F9E71B7DD6A500B5EA08 /* Me(我的) */,
-				FAA0F9E61B7DD6A500B5EA08 /* Main(公共) */,
-				FAA0F9E91B7DD72A00B5EA08 /* Other(其他) */,
-				FA4090101B9EE1BF0007810C /* extension(扩展) */,
+				FAA0F9E51B7DD6A500B5EA08 /* Explore */,
+				FAA0F9E41B7DD6A500B5EA08 /* Experience */,
+				FAA0F9E31B7DD6A500B5EA08 /* Classify */,
+				FAA0F9E71B7DD6A500B5EA08 /* Me */,
+				FAA0F9E61B7DD6A500B5EA08 /* Main */,
+				FAA0F9E91B7DD72A00B5EA08 /* Other */,
+				FA4090101B9EE1BF0007810C /* extension */,
 			);
-			name = "UI(界面)";
 			path = UI;
 			sourceTree = "<group>";
 		};
-		FAA0F9E31B7DD6A500B5EA08 /* Classify(分类) */ = {
+		FAA0F9E31B7DD6A500B5EA08 /* Classify */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9EE1B7DDA4300B5EA08 /* ClassifyViewController.swift */,
@@ -616,11 +611,10 @@
 				FAD37BA11BA9EDBC00E0C210 /* SearchButton.swift */,
 				FA57DF0D1B8335920099CD37 /* SearchTextField.swift */,
 			);
-			name = "Classify(分类)";
 			path = Classify;
 			sourceTree = "<group>";
 		};
-		FAA0F9E41B7DD6A500B5EA08 /* Experience(体验) */ = {
+		FAA0F9E41B7DD6A500B5EA08 /* Experience */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9F01B7DDA5D00B5EA08 /* ExperienceViewController.swift */,
@@ -636,11 +630,10 @@
 				FA66A4481B90C644005DF017 /* SignUpViewController.xib */,
 				FAE5D5641BA2000F009BA347 /* BuyDetailViewController.swift */,
 			);
-			name = "Experience(体验)";
 			path = Experience;
 			sourceTree = "<group>";
 		};
-		FAA0F9E51B7DD6A500B5EA08 /* Explore(探店) */ = {
+		FAA0F9E51B7DD6A500B5EA08 /* Explore */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9F21B7DDA7700B5EA08 /* ExploreViewController.swift */,
@@ -663,11 +656,10 @@
 				FA4090231B9F3B310007810C /* GuessLikeView.swift */,
 				FA4090251B9F3B470007810C /* GuessLikeView.xib */,
 			);
-			name = "Explore(探店)";
 			path = Explore;
 			sourceTree = "<group>";
 		};
-		FAA0F9E61B7DD6A500B5EA08 /* Main(公共) */ = {
+		FAA0F9E61B7DD6A500B5EA08 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9EA1B7DD83E00B5EA08 /* MainTabBarController.swift */,
@@ -688,11 +680,10 @@
 				FA8B09B31BAD43F5001F1E66 /* CustomCalloutView.swift */,
 				FA8B09B51BAD4AFD001F1E66 /* CustomAnnotationView.swift */,
 			);
-			name = "Main(公共)";
 			path = Main;
 			sourceTree = "<group>";
 		};
-		FAA0F9E71B7DD6A500B5EA08 /* Me(我的) */ = {
+		FAA0F9E71B7DD6A500B5EA08 /* Me */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9F41B7DDAA100B5EA08 /* MeViewController.swift */,
@@ -711,16 +702,14 @@
 				FA7F8B171B95C275000704DB /* AboutWeViewController.swift */,
 				FA7F8B181B95C275000704DB /* AboutWeViewController.xib */,
 			);
-			name = "Me(我的)";
 			path = Me;
 			sourceTree = "<group>";
 		};
-		FAA0F9E91B7DD72A00B5EA08 /* Other(其他) */ = {
+		FAA0F9E91B7DD72A00B5EA08 /* Other */ = {
 			isa = PBXGroup;
 			children = (
 				FAA0F9F61B7DF02E00B5EA08 /* theme.swift */,
 			);
-			name = "Other(其他)";
 			path = Other;
 			sourceTree = "<group>";
 		};
